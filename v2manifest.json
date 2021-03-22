@@ -7,9 +7,9 @@
         {"@value":"Este é um rótulo.", "@language":"pt"}
     ],
     "metadata": [
-        {"label":"Published", "value": [
-            {"@value": "Paris, circa 1400", "@language":"en"},
-            {"@value": "Paris, environ 14eme siecle", "@language":"fr"}
+        {"label": "Creator/Contributor", "value": [
+            {"@value": "contribuinte (Função)", "@language": "pt"},
+            {"@value": "contributor (role)", "@language": "en"}
             ]
         }
     ],
