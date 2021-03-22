@@ -1,175 +1,45 @@
 {
-"@context": "http://iiif.io/api/presentation/2/context.json",
-"@id": "https://curio.lib.utexas.edu/manifests/utldams_utlmaps_bd613632-1e97-49fe-bc3b-70694465ffe6.json",
-"@type": "sc:Manifest",
-"label": [
-"Sanborn Fire Insurance Maps [Houston, Texas, 1948, Sheet 622]"
-],
-"metadata": [
-{
-"label": "Creator/Contributor",
-"value": [
-"Sanborn Map Company (cartographer)"
-]
-},
-{
-"label": "Date Created/Date Issued",
-"value": "1948-01-01"
-},
-{
-"label": "Owning Repository",
-"value": [
-"Perry-Castañeda Library Maps, University of Texas Libraries, The University of Texas at Austin"
-]
-},
-{
-"label": "Source Collection Name",
-"value": "Sanborn Fire Insurance Maps [Houston, Texas, 1948]"
-},
-{
-"label": "Type",
-"value": [
-"maps",
-"cartographic",
-"Fire insurance maps",
-"Digital maps"
-]
-},
-{
-"label": "Extent",
-"value": [
-"64 x 54 cm"
-]
-},
-{
-"label": "Rights - Use and Reproduction",
-"value": [
-"https://creativecommons.org/publicdomain/mark/1.0/"
-]
-},
-{
-"label": "Language",
-"value": [
-"English"
-]
-},
-{
-"label": "Publisher",
-"value": [
-"Sanborn Map Company"
-]
-},
-{
-"label": "Place of Publication",
-"value": [
-"New York"
-]
-},
-{
-"label": "Topic",
-"value": [
-"Fire risk assessment maps"
-]
-},
-{
-"label": "Geographic Coverage",
-"value": [
-"United States (country)",
-"West (U.S.) (region)",
-"Texas (state)",
-"Harris County (county)",
-"Houston (city)"
-]
-},
-{
-"label": "Place Name",
-"value": [
-"Houston (Tex.)"
-]
-},
-{
-"label": "Cartographic Information",
-"value": [
-"29.7500, -95.3500 (WGS84)",
-"Scale 1:600 ; drawn to a scale of 50 feet to an inch."
-]
-},
-{
-"label": "Origin Note",
-"value": [
-"Original located at the Dolph Briscoe Center for American History."
-]
-},
-{
-"label": "Identifier - UTL DAMS PID",
-"value": [
-"utlmaps:bd613632-1e97-49fe-bc3b-70694465ffe6"
-]
-},
-{
-"label": "Related Resource - Host",
-"value": [
-"Sanborn Fire Insurance Maps, 1877-1951. [Digital Texas Sanborn Fire Insurance Maps] (title)"
-]
-},
-{
-"label": "Identifier - PID",
-"value": "utlmaps:bd613632-1e97-49fe-bc3b-70694465ffe6"
-},
-{
-"label": "Thumbnail URI",
-"value": "https://curio.lib.utexas.edu/thumbnails/utldams_utlmaps_bd613632-1e97-49fe-bc3b-70694465ffe6.jpg"
-},
-{
-"label": "IIIF Image",
-"value": "https://iiif.lib.utexas.edu/iiif/2/utldams_utlmaps_bd613632-1e97-49fe-bc3b-70694465ffe6.jp2/full/full/0/default.jpg"
-},
-{
-"label": "Date Added",
-"value": "2021-03-22"
-}
-],
-"description": [
-"Originally published by Sanborn Map Co., New York; name of publisher and place of publication varies.",
-"Fire insurance map, hand-colored to show building construction, locations of windows and doors, elevators, and available water facilities.",
-"Shows factories, commercial occupancy of buildings, property boundaries and house and block numbers.",
-"Includes notes on population, fire departments, and prevailing winds.",
-"Includes location map and key to building colors and other features."
-],
-"license": "https://creativecommons.org/publicdomain/mark/1.0/",
-"viewingDirection": "left-to-right",
-"sequences": [
-{
-"@type": "sc:Sequence",
-"canvases": [
-{
-"@id": "https://curio.lib.utexas.edu/canvas/['Sanborn Fire Insurance Maps [Houston, Texas, 1948, Sheet 622]'].json",
-"@type": "sc:Canvas",
-"label": "['Sanborn Fire Insurance Maps [Houston, Texas, 1948, Sheet 622]']",
-"height": 4561,
-"width": 3800,
-"images": [
-{
-"@id": "https://curio.lib.utexas.edu/annotation/['Sanborn Fire Insurance Maps [Houston, Texas, 1948, Sheet 622]'].json",
-"@type": "oa:Annotation",
-"motivation": "sc:painting",
-"resource": {
-"@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utlmaps_bd613632-1e97-49fe-bc3b-70694465ffe6.jp2/full/full/0/default.jpg",
-"@type": "dctypes:Image",
-"format": "image/jpeg",
-"height": 4561,
-"width": 3800,
-"service": {
-"@context": "http://iiif.io/api/image/2/context.json",
-"@id": "https://iiif.lib.utexas.edu/iiif/2/utldams_utlmaps_bd613632-1e97-49fe-bc3b-70694465ffe6.jp2",
-"profile": "http://iiif.io/api/image/2/level2.json"
-}
-},
-"on": "https://curio.lib.utexas.edu/canvas/['Sanborn Fire Insurance Maps [Houston, Texas, 1948, Sheet 622]'].json"
-}
-]
-}
-]
-}
-]
-}
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/manifests/2/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.json",
+    "@type": "sc:Manifest",
+    "label": ["test"],
+    "metadata": [],
+    "description": ["Descrição"],
+    "thumbnail": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/TN/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jpg",
+    "license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
+    "viewingDirection": "left-to-right",
+    "sequences": [
+    {
+    "@type": "sc:Sequence",
+    "canvases": [
+    {
+    "@id": "https://curio.lib.utexas.edu/canvas/['test'].json",
+    "@type": "sc:Canvas",
+    "label": "test",
+    "height": 225,
+    "width": 225,
+    "images": [
+    {
+    "@id": "https://curio.lib.utexas.edu/annotation/['test'].json",
+    "@type": "oa:Annotation",
+    "motivation": "sc:painting",
+    "resource": {
+    "@id": "https://iiif-test2.lib.utexas.edu/iiif/2/utldams_utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jp2/full/full/0/default.jpg",
+    "@type": "dctypes:Image",
+    "format": "image/jpeg",
+    "height": 225,
+    "width": 225,
+    "service": {
+    "@context": "http://iiif.io/api/image/2/context.json",
+    "@id": "https://iiif-test2.lib.utexas.edu/iiif/2/utldams_utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jp2",
+    "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+    },
+    "on": "https://curio.lib.utexas.edu/canvas/['test'].json"
+    }
+    ]
+    }
+    ]
+    }
+    ]
+    }
