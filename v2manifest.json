@@ -207,13 +207,9 @@
 "value": "2021-03-22"
 }
 ],
-"description": [
+"description":
 [
-"Descrição"
-],
-[
-"description"
-]
+"Descrição", "description"
 ],
 "thumbnail": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/TN/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jpg",
 "license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
