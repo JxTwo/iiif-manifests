@@ -2,7 +2,9 @@
 "@context": "http://iiif.io/api/presentation/2/context.json",
 "@id": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/manifests/2/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.json",
 "@type": "sc:Manifest",
-"label": "test",
+"label": [
+"test"
+],
 "metadata": [
 {
 "label": "Creator/Contributor",
@@ -205,8 +207,14 @@
 "value": "2021-03-22"
 }
 ],
-"description": 
+"description": [
+[
 "Descrição"
+],
+[
+"description"
+]
+],
 "thumbnail": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/TN/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jpg",
 "license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
 "viewingDirection": "left-to-right",
