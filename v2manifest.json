@@ -4,7 +4,7 @@
     "@type": "sc:Manifest",
     "label": ["test"],
     "metadata": [],
-    "description": ["Descrição"],
+    "description": {"@value":"Here is a longer description of the object", "@language":"en"},
     "thumbnail": "https://curio-test.lib.utexas.edu/assets/DAMS/utlmisc/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5/TN/utlmisc_f33cdfb3-92cd-4bc6-8e5d-d97d42153fc5.jpg",
     "license": "https://creativecommons.org/licenses/by-nc-nd/4.0",
     "viewingDirection": "left-to-right",
