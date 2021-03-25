@@ -21,7 +21,10 @@
                     "Creator/Contributor"
                 ]
             },
-            "value": {}
+            "value": {
+                "label": "Creator/Contributor",
+                "value": {}
+            }
         },
         {
             "label": {
@@ -30,9 +33,10 @@
                 ]
             },
             "value": {
-                "en": [
-                    "1444-01-01"
-                ]
+                "label": "Date Created/Date Issued",
+                "value": {
+                    "en": "1444-01-01"
+                }
             }
         },
         {
@@ -42,16 +46,15 @@
                 ]
             },
             "value": {
-                "en": [
-                    [
+                "label": "Owning Repository",
+                "value": {
+                    "en": [
+                        "Voces de Mujeres"
+                    ],
+                    "test": [
                         "Voces de Mujeres"
                     ]
-                ],
-                "test": [
-                    [
-                        "Voces de Mujeres"
-                    ]
-                ]
+                }
             }
         },
         {
@@ -61,11 +64,12 @@
                 ]
             },
             "value": {
-                "en": [
-                    [
+                "label": "Type",
+                "value": {
+                    "en": [
                         "mixed material"
                     ]
-                ]
+                }
             }
         },
         {
@@ -75,16 +79,15 @@
                 ]
             },
             "value": {
-                "en": [
-                    [
+                "label": "Topic",
+                "value": {
+                    "en": [
+                        "test"
+                    ],
+                    "test": [
                         "test"
                     ]
-                ],
-                "test": [
-                    [
-                        "test"
-                    ]
-                ]
+                }
             }
         },
         {
@@ -94,11 +97,12 @@
                 ]
             },
             "value": {
-                "en": [
-                    [
+                "label": "Identifier - UTL DAMS PID",
+                "value": {
+                    "en": [
                         "utlfal:56857a48-aa8f-44ae-9b5d-7ba986c65097"
                     ]
-                ]
+                }
             }
         },
         {
@@ -108,16 +112,15 @@
                 ]
             },
             "value": {
-                "en": [
-                    [
+                "label": "Primary Title",
+                "value": {
+                    "en": [
+                        "wave-with-proxymp3"
+                    ],
+                    "test": [
                         "wave-with-proxymp3"
                     ]
-                ],
-                "test": [
-                    [
-                        "wave-with-proxymp3"
-                    ]
-                ]
+                }
             }
         },
         {
@@ -127,16 +130,15 @@
                 ]
             },
             "value": {
-                "en": [
-                    [
+                "label": "Description",
+                "value": {
+                    "en": [
+                        "test"
+                    ],
+                    "test": [
                         "test"
                     ]
-                ],
-                "test": [
-                    [
-                        "test"
-                    ]
-                ]
+                }
             }
         },
         {
@@ -146,11 +148,12 @@
                 ]
             },
             "value": {
-                "en": [
-                    [
+                "label": "License",
+                "value": {
+                    "en": [
                         "https://creativecommons.org/licenses/by-nc-nd/4.0"
                     ]
-                ]
+                }
             }
         },
         {
