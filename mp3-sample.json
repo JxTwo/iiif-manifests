@@ -1,298 +1,304 @@
 {
-   "@context":"http://iiif.io/api/presentation/3/context.json",
-   "type":"Manifest",
-   "id":"https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.json",
-   "label":{
-      "none":[
-         {
-            "en":[
-               "wave-with-proxymp3"
-            ],
-            "test":[
-               "wave-with-proxymp3"
-            ]
-         }
-      ]
-   },
-   "metadata":[
-      {
-         "label":{
-            "none":[
-               "Creator/Contributor"
-            ]
-         },
-         "value":{
-            
-         }
-      },
-      {
-         "label":{
-            "none":[
-               "Date Created/Date Issued"
-            ]
-         },
-         "value":{
-            "en":[
-               "1444-01-01"
-            ]
-         }
-      },
-      {
-         "label":{
-            "none":[
-               "Owning Repository"
-            ]
-         },
-         "value":{
-            "en":[
-               [
-                  "Voces de Mujeres"
-               ]
-            ],
-            "test":[
-               [
-                  "Voces de Mujeres"
-               ]
-            ]
-         }
-      },
-      {
-         "label":{
-            "none":[
-               "Type"
-            ]
-         },
-         "value":{
-            "en":[
-               [
-                  "mixed material"
-               ]
-            ]
-         }
-      },
-      {
-         "label":{
-            "none":[
-               "Topic"
-            ]
-         },
-         "value":{
-            "en":[
-               [
-                  "test"
-               ]
-            ],
-            "test":[
-               [
-                  "test"
-               ]
-            ]
-         }
-      },
-      {
-         "label":{
-            "none":[
-               "Identifier - UTL DAMS PID"
-            ]
-         },
-         "value":{
-            "en":[
-               [
-                  "utlfal:56857a48-aa8f-44ae-9b5d-7ba986c65097"
-               ]
-            ]
-         }
-      },
-      {
-         "label":{
-            "none":[
-               "Primary Title"
-            ]
-         },
-         "value":{
-            "en":[
-               [
-                  "wave-with-proxymp3"
-               ]
-            ],
-            "test":[
-               [
-                  "wave-with-proxymp3"
-               ]
-            ]
-         }
-      },
-      {
-         "label":{
-            "none":[
-               "Description"
-            ]
-         },
-         "value":{
-            "en":[
-               [
-                  "test"
-               ]
-            ],
-            "test":[
-               [
-                  "test"
-               ]
-            ]
-         }
-      },
-      {
-         "label":{
-            "none":[
-               "License"
-            ]
-         },
-         "value":{
-            "en":[
-               [
-                  "https://creativecommons.org/licenses/by-nc-nd/4.0"
-               ]
-            ]
-         }
-      },
-      {
-         "label":{
-            "none":[
-               "Identifier - PID"
-            ]
-         },
-         "value":{
-            "none":[
-               "utlfal:56857a48-aa8f-44ae-9b5d-7ba986c65097"
-            ]
-         }
-      },
-      {
-         "label":{
-            "none":[
-               "Thumbnail URI"
-            ]
-         },
-         "value":{
-            "none":[
-               "https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/TN/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.jpg"
-            ]
-         }
-      },
-      {
-         "label":{
-            "none":[
-               "IIIF Image"
-            ]
-         },
-         "value":{
-            "none":[
-               "https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/PROXY_MP3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.mp3"
-            ]
-         }
-      },
-      {
-         "label":{
-            "none":[
-               "IIIF Resource"
-            ]
-         },
-         "value":{
-            "none":[
-               "https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/PROXY_MP3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.mp3"
-            ]
-         }
-      },
-      {
-         "label":{
-            "none":[
-               "Date Added"
-            ]
-         },
-         "value":{
-            "none":[
-               "2021-03-25"
-            ]
-         }
-      },
-      {
-         "label":{
-            "none":[
-               "Manifest URI"
-            ]
-         },
-         "value":{
-            "none":[
-               "https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.json"
-            ]
-         }
-      },
-      {
-         "label":{
-            "none":[
-               null
-            ]
-         },
-         "value":{
-            "none":[
-               null
-            ]
-         }
-      }
-   ],
-   "summary":{
-      "none":[
-         {
-            "en":[
-               "test"
-            ],
-            "test":[
-               "test"
-            ]
-         }
-      ]
-   },
-   "thumbnail":[
-      {
-         "id":"https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/TN/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.jpg",
-         "type":"Image",
-         "format":"image/jpeg"
-      }
-   ],
-   "rights":{
-      "en":[
-         "https://creativecommons.org/licenses/by-nc-nd/4.0"
-      ]
-   },
-   "items":[
-      {
-         "id":"Nonecurio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas",
-         "type":"Canvas",
-         "height":null,
-         "width":null,
-         "duration":"33000",
-         "items":[
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "type": "Manifest",
+    "id": "https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.json",
+    "label": {
+        "none": [
             {
-               "id":"Nonecurio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas/page",
-               "type":"AnnotationPage",
-               "items":[
-                  {
-                     "id":"Nonecurio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas/page/annotation",
-                     "type":"Annotation",
-                     "motivation":"painting",
-                     "body":{
-                        "id":"https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/PROXY_MP3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.mp3",
-                        "type":"Audio",
-                        "height":null,
-                        "width":null,
-                        "duration":"33000",
-                        "format":"audio/mp4"
-                     },
-                     "target":"Nonecurio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas/page"
-                  }
-               ]
+                "en": [
+                    "wave-with-proxymp3"
+                ],
+                "test": [
+                    "wave-with-proxymp3"
+                ]
             }
-         ]
-      }
-   ]
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "none": [
+                    "Creator/Contributor"
+                ]
+            },
+            "value": {}
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Created/Date Issued"
+                ]
+            },
+            "value": {
+                "en": [
+                    "1444-01-01"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Owning Repository"
+                ]
+            },
+            "value": {
+                "en": [
+                    [
+                        "Voces de Mujeres"
+                    ]
+                ],
+                "test": [
+                    [
+                        "Voces de Mujeres"
+                    ]
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Type"
+                ]
+            },
+            "value": {
+                "en": [
+                    [
+                        "mixed material"
+                    ]
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Topic"
+                ]
+            },
+            "value": {
+                "en": [
+                    [
+                        "test"
+                    ]
+                ],
+                "test": [
+                    [
+                        "test"
+                    ]
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Identifier - UTL DAMS PID"
+                ]
+            },
+            "value": {
+                "en": [
+                    [
+                        "utlfal:56857a48-aa8f-44ae-9b5d-7ba986c65097"
+                    ]
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Primary Title"
+                ]
+            },
+            "value": {
+                "en": [
+                    [
+                        "wave-with-proxymp3"
+                    ]
+                ],
+                "test": [
+                    [
+                        "wave-with-proxymp3"
+                    ]
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Description"
+                ]
+            },
+            "value": {
+                "en": [
+                    [
+                        "test"
+                    ]
+                ],
+                "test": [
+                    [
+                        "test"
+                    ]
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "License"
+                ]
+            },
+            "value": {
+                "en": [
+                    [
+                        "https://creativecommons.org/licenses/by-nc-nd/4.0"
+                    ]
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Identifier - PID"
+                ]
+            },
+            "value": {
+                "none": [
+                    "utlfal:56857a48-aa8f-44ae-9b5d-7ba986c65097"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Thumbnail URI"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/TN/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.jpg"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "IIIF Image"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/PROXY_MP3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.mp3"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "IIIF Resource"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/PROXY_MP3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.mp3"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Date Added"
+                ]
+            },
+            "value": {
+                "none": [
+                    "2021-03-25"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    "Manifest URI"
+                ]
+            },
+            "value": {
+                "none": [
+                    "https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.json"
+                ]
+            }
+        },
+        {
+            "label": {
+                "none": [
+                    null
+                ]
+            },
+            "value": {
+                "none": [
+                    null
+                ]
+            }
+        }
+    ],
+    "summary": {
+        "none": [
+            {
+                "en": [
+                    "test"
+                ],
+                "test": [
+                    "test"
+                ]
+            }
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/TN/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.jpg",
+            "type": "Image",
+            "format": "image/jpeg"
+        }
+    ],
+    "rights": {
+        "en": [
+            "https://creativecommons.org/licenses/by-nc-nd/4.0"
+        ]
+    },
+    "seeAlso": [
+        {
+            "id": "None",
+            "type": "Text",
+            "format": "application/webvtt",
+            "label": "subtitles"
+        }
+    ],
+    "items": [
+        {
+            "id": "Nonecurio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas",
+            "type": "Canvas",
+            "height": null,
+            "width": null,
+            "duration": "33000",
+            "items": [
+                {
+                    "id": "Nonecurio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas/page",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "Nonecurio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas/page/annotation",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/PROXY_MP3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.mp3",
+                                "type": "Audio",
+                                "height": null,
+                                "width": null,
+                                "duration": "33000",
+                                "format": "audio/mp4"
+                            },
+                            "target": "Nonecurio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas/page"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
