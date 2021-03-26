@@ -223,7 +223,7 @@
             "type": "Canvas",
             "height": 360,
             "width": 480,
-            "duration": "33000",
+            "duration": 33000,
             "items": [
                 {
                     "id": "https://curio-test.lib.utexas.edu/annotation/curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas/page",
@@ -238,7 +238,7 @@
                                 "type": "Audio",
                                 "height": 360,
                                 "width": 480,
-                                "duration": "33000",
+                                "duration": 33000,
                                 "format": "audio/mp4"
                             },
                             "target": "https://curio-test.lib.utexas.edu/annotation/curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas/page"
