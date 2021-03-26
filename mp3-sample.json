@@ -242,18 +242,18 @@
     ],
     "items": [
         {
-            "id": "Nonecurio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas",
+            "id": "\thttps://curio-test.lib.utexas.edu/annotation/curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas",
             "type": "Canvas",
             "height": null,
             "width": null,
             "duration": "33000",
             "items": [
                 {
-                    "id": "Nonecurio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas/page",
+                    "id": "\thttps://curio-test.lib.utexas.edu/annotation/curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas/page",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "Nonecurio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas/page/annotation",
+                            "id": "\thttps://curio-test.lib.utexas.edu/annotation/curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas/page/annotation",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
@@ -264,7 +264,7 @@
                                 "duration": "33000",
                                 "format": "audio/mp4"
                             },
-                            "target": "Nonecurio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas/page"
+                            "target": "\thttps://curio-test.lib.utexas.edu/annotation/curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas/page"
                         }
                     ]
                 }
