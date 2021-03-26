@@ -3,11 +3,15 @@
     "type": "Manifest",
     "id": "https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.json",
     "label": {
-        "en": [
-            "wave-with-proxymp3"
-        ],
-        "test": [
-            "wave-with-proxymp3"
+        "none": [
+            {
+                "en": [
+                    "wave-with-proxymp3"
+                ],
+                "test": [
+                    "wave-with-proxymp3"
+                ]
+            }
         ]
     },
     "metadata": [
@@ -17,10 +21,7 @@
                     "Creator/Contributor"
                 ]
             },
-            "value": {
-                "label": "Creator/Contributor",
-                "value": {}
-            }
+            "value": {}
         },
         {
             "label": {
@@ -29,10 +30,9 @@
                 ]
             },
             "value": {
-                "label": "Date Created/Date Issued",
-                "value": {
-                    "en": "1444-01-01"
-                }
+                "en": [
+                    "1444-01-01"
+                ]
             }
         },
         {
@@ -42,15 +42,12 @@
                 ]
             },
             "value": {
-                "label": "Owning Repository",
-                "value": {
-                    "en": [
-                        "Voces de Mujeres"
-                    ],
-                    "test": [
-                        "Voces de Mujeres"
-                    ]
-                }
+                "en": [
+                    "Voces de Mujeres"
+                ],
+                "test": [
+                    "Voces de Mujeres"
+                ]
             }
         },
         {
@@ -60,12 +57,9 @@
                 ]
             },
             "value": {
-                "label": "Type",
-                "value": {
-                    "en": [
-                        "mixed material"
-                    ]
-                }
+                "en": [
+                    "mixed material"
+                ]
             }
         },
         {
@@ -75,15 +69,12 @@
                 ]
             },
             "value": {
-                "label": "Topic",
-                "value": {
-                    "en": [
-                        "test"
-                    ],
-                    "test": [
-                        "test"
-                    ]
-                }
+                "en": [
+                    "test"
+                ],
+                "test": [
+                    "test"
+                ]
             }
         },
         {
@@ -93,12 +84,9 @@
                 ]
             },
             "value": {
-                "label": "Identifier - UTL DAMS PID",
-                "value": {
-                    "en": [
-                        "utlfal:56857a48-aa8f-44ae-9b5d-7ba986c65097"
-                    ]
-                }
+                "en": [
+                    "utlfal:56857a48-aa8f-44ae-9b5d-7ba986c65097"
+                ]
             }
         },
         {
@@ -108,15 +96,12 @@
                 ]
             },
             "value": {
-                "label": "Primary Title",
-                "value": {
-                    "en": [
-                        "wave-with-proxymp3"
-                    ],
-                    "test": [
-                        "wave-with-proxymp3"
-                    ]
-                }
+                "en": [
+                    "wave-with-proxymp3"
+                ],
+                "test": [
+                    "wave-with-proxymp3"
+                ]
             }
         },
         {
@@ -126,15 +111,12 @@
                 ]
             },
             "value": {
-                "label": "Description",
-                "value": {
-                    "en": [
-                        "test"
-                    ],
-                    "test": [
-                        "test"
-                    ]
-                }
+                "en": [
+                    "test"
+                ],
+                "test": [
+                    "test"
+                ]
             }
         },
         {
@@ -144,12 +126,9 @@
                 ]
             },
             "value": {
-                "label": "License",
-                "value": {
-                    "en": [
-                        "https://creativecommons.org/licenses/by-nc-nd/4.0"
-                    ]
-                }
+                "en": [
+                    "https://creativecommons.org/licenses/by-nc-nd/4.0"
+                ]
             }
         },
         {
