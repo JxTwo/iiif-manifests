@@ -215,23 +215,14 @@
             "format": "image/jpeg"
         }
     ],
-    "rights": [
-        "https://creativecommons.org/licenses/by-nc-nd/4.0"
-    ],
-    "seeAlso": [
-        {
-            "id": "None",
-            "type": "Text",
-            "format": "application/webvtt",
-            "label": "subtitles"
-        }
-    ],
+    "rights": "https://creativecommons.org/licenses/by-nc-nd/4.0",
+    "seeAlso": [],
     "items": [
         {
             "id": "https://curio-test.lib.utexas.edu/annotation/curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/manifests/3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/canvas",
             "type": "Canvas",
-            "height": null,
-            "width": null,
+            "height": 360,
+            "width": 480,
             "duration": "33000",
             "items": [
                 {
@@ -245,8 +236,8 @@
                             "body": {
                                 "id": "https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097/PROXY_MP3/utlfal_56857a48-aa8f-44ae-9b5d-7ba986c65097.mp3",
                                 "type": "Audio",
-                                "height": null,
-                                "width": null,
+                                "height": 360,
+                                "width": 480,
                                 "duration": "33000",
                                 "format": "audio/mp4"
                             },
