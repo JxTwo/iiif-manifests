@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@id": "https://curio-test.lib.utexas.edu/assets/DAMS/utlfal/utlfal_7ee00b62-8d25-4db8-91f8-5ddd108ce4b3/manifests/2/utlfal_7ee00b62-8d25-4db8-91f8-5ddd108ce4b3.json",
+    "@id": "https://raw.githubusercontent.com/JxTwo/iiif-manifests/main/v2manifest.json",
     "@type": "sc:Manifest",
     "label": {
         "@value": "jj-large-image-test",
